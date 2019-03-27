@@ -20,7 +20,7 @@ public class Aula08Test {
     @Test
     public void testSomeMethod() {
         // TODO review the generated test code and remove the default call to fail.
-        //fail("The test case is a prototype.");
+        fail("The test case is a prototype.");
     }
     
 }
